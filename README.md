@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lucasbatistaf, studying Computer Science in Feevale, Rs, Brazil
-- 👀 I’m interested in Java Programing
-- 🌱 I’m currently learning Spring Boot, Elixir
+- 👀 I’m interested in Java and Python Programing, Machine Learning, AI
+- 🌱 I’m currently learning Python, Pandas, Power BI, VBA
 - 📫 How to reach me @lucasbatsta at twitter/instagram
 
 <!---
