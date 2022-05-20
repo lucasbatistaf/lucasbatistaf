@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @lucasbatistaf, studying Computer Science in Feevale, Rs, Brazil
+- 👋 Hi, I’m @lucasbatistaf, studying Computer Science at Feevale, Rs, Brazil
 - 👀 I’m interested in Java and Python Programing
 - 🌱 I’m currently learning Springboot on a course at uDemy and Docker at Full Cycle course
 - 📫 How to reach me @lucasbatsta at twitter/instagram
