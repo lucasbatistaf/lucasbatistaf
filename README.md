@@ -1,8 +1,6 @@
 # Hi, I'm Lucas Batista
 
 - Graduating in Computer Science at University Feevale, Novo Hamburgo, RS, Brazil
-- Currently looking for a Back-End Job
-- You can contact me at any social media below :D
 
   
 <div>
