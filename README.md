@@ -19,6 +19,6 @@
     <img height=200 align="center" src="https://github-readme-stats-lucasbatistafs-projects.vercel.app/api?username=lucasbatistaf&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   </a>
   <a href="https://github.com/lucasbatistaf/github-readme-stats">
-    <img height=200 align="center" src="https://github-readme-stats-lucasbatistafs-projects.vercel.app/api/top-langs?username=lucasbatistaf&layout=donut&langs_count=8&show_icons=true&theme=dark&card_width=400" />
+    <img height=200 align="center" src="https://github-readme-stats-lucasbatistafs-projects.vercel.app/api/top-langs?username=lucasbatistaf&layout=compact&langs_count=8&show_icons=true&theme=dark" />
   </a>
 </div>
