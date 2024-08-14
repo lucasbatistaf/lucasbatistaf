@@ -17,6 +17,5 @@
 <div>
   <a href="https://github.com/lucasbatistaf">
   <img height="180em" src="https://github-readme-stats-lucasbatistafs-projects.vercel.app/api?username=lucasbatistaf&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-lucasbatistafs-projects.vercel.app/api/top-langs/?username=lucasbatistaf&layout=donut"/>
 </div>
 
