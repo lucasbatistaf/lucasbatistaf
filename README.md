@@ -1,14 +1,14 @@
-# Hi, I'm Lucas Batista
+# Hey, I'm Lucas Batista
 
-- Computer Science Bachelor at University Feevale, Novo Hamburgo, RS, Brazil
-- 2 years of experience as Business Intelligence Analyst
-- 3 years of experience in Data Science
-- Currently learning Apache Airflow and Databricks
+- I have a Computer Science Bachelor, graduated in 2023
+- With almot 3 years of experience in Data Analysis
+- Working as Data Analyst at Adtail, a digital marketing agency
+- Currently learning DBT and improving my Data Visualization skills on Python and Tableau
+- Currently reading Minimum Viable SQL Patterns by Ergest Xheblati
 
   
 <div>
   <a href="https://www.linkedin.com/in/lucasbatistaf/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
-  <a href="https://instagram.com/lucasbatsta" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:lucaasbatista182@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">   </a>
 </div>
 
