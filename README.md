@@ -3,6 +3,7 @@
 - I have a Computer Science Bachelor, graduated in 2023
 - With almot 3 years of experience in Data Analysis
 - Working as Data Analyst at Adtail, a digital marketing agency
+- Mostly using SQL and Python
 - Currently learning DBT and improving my Data Visualization skills on Python and Tableau
 - Currently reading Minimum Viable SQL Patterns by Ergest Xheblati
 
