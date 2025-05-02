@@ -4,9 +4,11 @@
 - With 3 years of experience in Data Analysis
 - Working as Data Analyst at Adtail, a digital marketing agency
 - Mostly using SQL and Python
+- Other skills: dbt, Databricks, Azure and GCP
 - BI Tools: Looker Studio, PowerBI and Tableau
+- Databricks Certified Data Analyst Associate
 - Currently learning DBT and improving my Data Visualization skills on Python and Tableau
-- Currently reading Minimum Viable SQL Patterns by Ergest Xheblati
+- Currently reading Effective Data Storytelling by Brent Dykes
 
   
 <div>
