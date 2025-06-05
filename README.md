@@ -5,9 +5,9 @@
 - Working as Data Analyst at Adtail, a digital marketing agency
 - Mostly using SQL and Python
 - Other skills: dbt, Databricks, Azure and GCP
-- BI Tools: Looker Studio, PowerBI and Tableau
+- BI Tools: Looker Studio, PowerBI
 - Databricks Certified Data Analyst Associate
-- Currently learning DBT and improving my Data Visualization skills on Python and Tableau
+- Currently learning DBT, improving PowerBI and Python
 - Currently reading Effective Data Storytelling by Brent Dykes
 
   
