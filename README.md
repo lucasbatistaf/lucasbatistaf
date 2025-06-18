@@ -4,7 +4,7 @@
 - With 3 years of experience in Data Analysis
 - Working as Data Analyst at Adtail, a digital marketing agency
 - Mostly using SQL and Python
-- Other skills: dbt, Databricks, Azure and GCP
+- Other skills: dbt, Snowflake, Databricks, Azure and GCP
 - BI Tools: Looker Studio, PowerBI
 - Databricks Certified Data Analyst Associate
 - Currently learning DBT, improving PowerBI and Python
