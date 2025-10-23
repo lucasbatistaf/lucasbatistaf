@@ -2,13 +2,13 @@
 
 - I have a Computer Science Bachelor, graduated in 2023
 - With 3 years of experience in Data Analysis
-- Working as Data Analyst at Adtail, a digital marketing agency
-- Mostly using SQL and Python
-- Other skills: dbt, Snowflake, Databricks, Azure and GCP
+- Future Data Engineer
+- Main skills: SQL, Python, Spark and dbt
+- Other skills: Snowflake, Databricks, AWS, Airflow, Docker
 - BI Tools: Looker Studio, PowerBI
 - Databricks Certified Data Analyst Associate
-- Currently learning DBT, improving PowerBI and Python
-- Currently reading Effective Data Storytelling by Brent Dykes
+- Currently learning dbt, improving my Spark and Learning Docker/Kubernetes
+- Currently reading The Pragmatic Programmer
 
   
 <div>
