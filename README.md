@@ -7,7 +7,7 @@
 - Other skills: Snowflake, Databricks, AWS, Airflow, Docker
 - BI Tools: Looker Studio, PowerBI
 - Databricks Certified Data Analyst Associate
-- Currently learning dbt, improving my Spark and Learning Docker/Kubernetes
+- Currently improving my Spark and Learning Docker/Kubernetes/Terraform
 - Currently reading The Pragmatic Programmer
 
   
