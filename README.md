@@ -1,14 +1,13 @@
 # Hey, I'm Lucas Batista
 
 - I'm a Computer Science Bachelor, graduated in 2023
-- 3 years of experience in Data Analysis
-- Future Data Engineer/Analytics Engineer
+- 4 years of experience as Analytics Engineer
 - Main skills: SQL, Python, Spark and dbt
 - Other skills: Snowflake, Databricks, AWS, Airflow, Docker
 - BI Tools: Looker Studio, PowerBI
-- Databricks Certified Data Analyst Associate
-- Currently improving my Spark and learning Docker/Kubernetes/Terraform
-- Currently reading The Pragmatic Programmer
+- Certifications:
+  - Databricks Certified Data Analyst Associate
+  - Databricks Certified Data Engineer Associate
 
   
 <div>
